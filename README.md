@@ -348,6 +348,7 @@ of the core ΣO framework.
 |-----------|------------------------|---------|--------|-----|
 | ✅ [`gor-caf`](https://github.com/arwells-research/gor-caf) | Winding sectors, coherence aperture | NIST ionization energies | Validated | 10.5281/zenodo.18027076 |
 | ✅ [`gor-kernel-model`](https://github.com/arwells-research/gor-kernel-model) | Coherence aperture L | Periodic table structure | Validated | — |
+| ✅ [`gor-ck-witness`](https://github.com/arwells-research/gor-ck-witness) | CK witness, regime-conditioned collapse, manifold resolution (k-selection) | NIST ionization energies (p-block) | Validated | — |
 
 ### 6.2 Nuclear Decay and Lifetime Scaling
 
