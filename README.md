@@ -444,6 +444,7 @@ with the underlying methodology documented in the core theory.
 | ✅ [`dual-frame-information-theory`](https://github.com/arwells-research/dual-frame-information-theory) | Dual-frame entropy | Representation learning | Validated | 10.5281/zenodo.18048533 |
 | ✅ [`motion-first-quantum-kinematics`](https://github.com/arwells-research/motion-first-quantum-kinematics) | Hilbert representability from distinguishability axioms | Quantum kinematics (representational) | Paper repo | 10.5281/zenodo.18646222 |
 | ✅ [`symmetry-induced-complexification`](https://github.com/arwells-research/symmetry-induced-complexification) | Complex structure from one-parameter symmetry | Quantum kinematics (representational) | Paper repo | 10.5281/zenodo.18692888 |
+| ✅ [`compact-fiber-admissibility`](https://github.com/arwells-research/compact-fiber-admissibility) | Necessity of the compact local admissibility carrier | Reciprocal-System / foundational local carrier | Paper repo | 10.5281/zenodo.19423877 |
 
 ### 6.10 Arrow Diagnostics and Projection Asymmetry
 
