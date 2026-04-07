@@ -367,6 +367,7 @@ of the core ΣO framework.
 | Repository | Tests (ΣO Primitives) | Dataset | Status | DOI |
 |-----------|------------------------|---------|--------|-----|
 | ✅ [`dft-astro-nonlocal-kinematics`](https://github.com/arwells-research/dft-astro-nonlocal-kinematics) | Nonlocal kinematic geometry | SPARC rotation curves | Validated | — |
+| ✅ [`compact-fiber-galactic-rotation`](https://github.com/arwells-research/compact-fiber-galactic-rotation) | Compact-fiber galactic rotation model | SPARC rotation curves | Paper repo | 10.5281/zenodo.19446509 |
 
 ### 6.5 Radiation and Coherence Phenomenology
 
