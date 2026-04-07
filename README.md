@@ -1,4 +1,4 @@
-# Dual-Frame Research Group: Σ-Order Core Theory Hub
+# Dual-Frame Research Group: Σ-Order Research Program Hub
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18027076.svg)](https://doi.org/10.5281/zenodo.18027076)
 
 ---
@@ -31,6 +31,31 @@ use “DFT”, interpret it as referring to the same underlying framework, now i
 > are public yet. Completeness claims (e.g., `dft-radiation` C1–C5) are falsifiable but 
 > under active stress-testing.
 
+## Program Structure
+
+This repository indexes a **single developmental research program**, but not all
+repositories operate at the same theoretical level.
+
+- **Σ-Order Theory (ΣO):** the **post-projection**, limits-first framework.
+  It preserves structural residue beyond standard QM, exposes admissibility
+  boundaries clearly, and serves as the main reduced diagnostic layer of the program.
+  However, relative to the deeper carrier level, it is **degenerate**: it does not
+  retain the full local admissibility structure needed for complete mechanism.
+
+- **Compact-fiber / carrier reconstruction:** the **deeper branch** of the program,
+  aimed at recovering local admissibility structure closer to the Natural Reference
+  System (NRS) level described in Larson’s Reciprocal System of Theory (RST). This branch
+  addresses mechanisms that the degenerate post-projection layer cannot adequately
+  generate on its own, especially in areas such as magnetism, matter and gravity.
+
+- **Dual-Frame Theory (DFT):** the historical predecessor of the ΣO branch.
+  Older repositories or documents using “DFT” should be understood in that lineage.
+
+These branches are **continuous parts of one research program**, not unrelated
+theories. The ΣO branch is especially useful for exposing admissibility boundaries,
+hidden structural residues, and reduced explanatory organization. The compact-fiber
+branch addresses the deeper carrier structure from which those projected residues arise.
+
 ---
 
 ### Research Integrity and Reproducibility Model
@@ -61,18 +86,22 @@ Independent reproduction by third parties is encouraged and expected.
 quantization, coherence limits, and correlation structure across quantum, atomic, 
 and macroscopic systems using minimal structural assumptions, with explicit falsifiability.
 
-This repository serves as the canonical, citable theoretical foundation for
-**Σ-Order theory (ΣO)**, a geometry-first framework based on the primacy of motion
-(historically referred to in this program as **Dual-Frame Theory (DFT)**).
+This repository serves as the canonical, citable **program-level index** for the
+broader **Σ-Order research program**, including both **Σ-Order theory (ΣO)** as the
+post-projection, limits-first branch and the deeper **compact-fiber / carrier
+reconstruction** branch.
 
-This repository is a **conceptual and organizational index** for the Dual-Frame
-research ecosystem. All empirical claims are constrained by explicit verification
-and falsification standards defined in VERIFICATION_PRINCIPLES.md.
+This repository is a **conceptual and organizational index** for the full research
+ecosystem descending from the Dual-Frame / Σ-Order lineage. All empirical claims
+are constrained by explicit verification and falsification standards defined in
+VERIFICATION_PRINCIPLES.md.
 
 > **TL;DR**
-> Σ-Order theory (historically referred to as Dual-Frame Theory) is a geometry-first framework that explains quantization,
-> coherence limits, and correlation structure using topological constraints on motion.
-> It does not replace QM or GR, but constrains where and how effective models apply.
+> The research collected here belongs to a single developmental program.
+> **Σ-Order theory** is the post-projection, limits-first branch: structurally informative,
+> boundary-revealing, and richer than standard QM in preserved hidden structure, but
+> degenerate relative to the deeper carrier level. The **compact-fiber branch** pursues
+> that deeper local admissibility structure closer to the pre-projection / NRS level.
 
 ---
 
@@ -80,6 +109,11 @@ and falsification standards defined in VERIFICATION_PRINCIPLES.md.
 
 ΣO (Σ-order) is a **geometry-first explanatory framework**, not a
 replacement formalism for quantum mechanics or general relativity.
+
+In the present program, ΣO should be understood specifically as the
+**post-projection branch** of the broader research effort. It preserves hidden
+structural residue beyond standard QM, but it is not the deepest carrier level
+of the program.
 
 ΣO does **not** introduce new dynamical postulates, hidden variables, or stochastic
 mechanisms at the foundational level. Instead, it proposes that many discrete and
@@ -366,7 +400,7 @@ of the core ΣO framework.
 
 | Repository | Tests (ΣO Primitives) | Dataset | Status | DOI |
 |-----------|------------------------|---------|--------|-----|
-| ✅ [`dft-astro-nonlocal-kinematics`](https://github.com/arwells-research/dft-astro-nonlocal-kinematics) | Nonlocal kinematic geometry | SPARC rotation curves | Validated | — |
+| ✅ [`dft-astro-nonlocal-kinematics`](https://github.com/arwells-research/dft-astro-nonlocal-kinematics) | Post-projection nonlocal kinematic geometry | SPARC rotation curves | Validated | — |
 | ✅ [`compact-fiber-galactic-rotation`](https://github.com/arwells-research/compact-fiber-galactic-rotation) | Compact-fiber galactic rotation model | SPARC rotation curves | Paper repo | 10.5281/zenodo.19446509 |
 
 ### 6.5 Radiation and Coherence Phenomenology
@@ -446,6 +480,8 @@ with the underlying methodology documented in the core theory.
 | ✅ [`motion-first-quantum-kinematics`](https://github.com/arwells-research/motion-first-quantum-kinematics) | Hilbert representability from distinguishability axioms | Quantum kinematics (representational) | Paper repo | 10.5281/zenodo.18646222 |
 | ✅ [`symmetry-induced-complexification`](https://github.com/arwells-research/symmetry-induced-complexification) | Complex structure from one-parameter symmetry | Quantum kinematics (representational) | Paper repo | 10.5281/zenodo.18692888 |
 | ✅ [`compact-fiber-admissibility`](https://github.com/arwells-research/compact-fiber-admissibility) | Necessity of the compact local admissibility carrier | Reciprocal-System / foundational local carrier | Paper repo | 10.5281/zenodo.19423877 |
+| ✅ [`compact-fiber-atomic-structure`](https://github.com/arwells-research/compact-fiber-atomic-structure) | Atomic screening classification from the compact fiber | Atomic structure / spectroscopic regime | Paper repo | 10.5281/zenodo.19426035 |
+| ✅ [`compact-fiber-quantum-gravity`](https://github.com/arwells-research/compact-fiber-quantum-gravity) | Effective quantum and gravitational structure from the compact fiber | Quantum / gravity (representational and weak-field effective structure) | Paper repo | 10.5281/zenodo.19434652 |
 
 ### 6.10 Arrow Diagnostics and Projection Asymmetry
 
