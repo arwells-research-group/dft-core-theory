@@ -1,4 +1,4 @@
-# Dual-Frame Research Group: Reciprocal-System Foundations and Research Program Hub
+# Dual-Frame Research Group: Reciprocal-System Research Program Hub
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18027076.svg)](https://doi.org/10.5281/zenodo.18027076)
 
 ---
@@ -11,7 +11,7 @@
 
 This repository indexes a **single layered research program** in the **Reciprocal System lineage**.
 
-The current center of gravity of the program is the recovery of **local admissibility carrier structure**
+The current **theoretical center of gravity** of the program is the recovery of **local admissibility carrier structure**
 from Larson’s motion-first postulates, especially in the **compact-fiber** line of work.
 
 Other parts of the program are retained as distinct but connected layers:
@@ -237,9 +237,7 @@ See **[sigma2-framework/](./sigma2-framework/)** for:
 
 ### 6.0 If you want the ontological origin first
 
-Start with:
-
- **Orientation:** [`00_program_orientation/reciprocal_system_primer.md`](./00_program_orientation/reciprocal_system_primer.md)  
+**Orientation:** [`00_program_orientation/reciprocal_system_primer.md`](./00_program_orientation/reciprocal_system_primer.md)
 
 This gives the Reciprocal-System lineage, explains the layered structure of the program,
 and shows how the compact-fiber, Σ-Order / Dual-Frame, and Σ₂ layers relate.
@@ -470,10 +468,11 @@ See **[VERIFICATION_PRINCIPLES.md](./VERIFICATION_PRINCIPLES.md)** for:
 
 ## Citation
 
-If you use or reference this work, please cite:
+If you use or reference this repository, please cite the current canonical program-index release:
 
 A. R. Wells (2025). *Dual-Frame Theory: Core Framework* (v1.0.0).  
 Zenodo. https://doi.org/10.5281/zenodo.18027076
 
-> **Versioning note:** This repository is a living index; citations should reference
-> the DOI above and the tagged release version.
+> **Lineage note:** The DOI predates the present Reciprocal-System-centered reorganization of this hub.
+> It remains the canonical citable release for the repository lineage unless and until a superseding
+> program-index release is minted.
