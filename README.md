@@ -235,7 +235,20 @@ See **[sigma2-framework/](./sigma2-framework/)** for:
 
 ## 6. Canonical Reading Order
 
-### 6.1 If you want the projection architecture first
+### 6.0 If you want the ontological origin first
+
+Start with:
+
+ **Orientation:** [`00_program_orientation/reciprocal_system_primer.md`](./00_program_orientation/reciprocal_system_primer.md)  
+
+This gives the Reciprocal-System lineage, explains the layered structure of the program,
+and shows how the compact-fiber, Σ-Order / Dual-Frame, and Σ₂ layers relate.
+
+### 6.1 If you want the carrier reconstruction line first
+
+Start with the compact-fiber papers and repositories listed in Section 8.9.
+
+### 6.2 If you want the projection architecture first
 
 1. **Foundations:** [`01_foundations/scalar_motion.md`](./01_foundations/scalar_motion.md)  
 2. **Mechanics:** [`02_mechanics/winding_sectors.md`](./02_mechanics/winding_sectors.md)  
@@ -244,7 +257,7 @@ See **[sigma2-framework/](./sigma2-framework/)** for:
 5. **Geometry:** [`04_spatial_geometry/kernel_physicality.md`](./04_spatial_geometry/kernel_physicality.md)  
 6. **Synthesis:** [`05_synthesis/spectral_shifts.md`](./05_synthesis/spectral_shifts.md)  
 
-### 6.2 If you want the admissibility methodology first
+### 6.3 If you want the admissibility methodology first
 
 Start with:
 
@@ -256,10 +269,6 @@ especially:
 - `motivating-example-continuous.md`
 - `checklist.md`
 - `scope-boundaries.md`
-
-### 6.3 If you want the carrier reconstruction line first
-
-Start with the compact-fiber papers and repositories listed in Section 8.9.
 
 ---
 
