@@ -1,5 +1,7 @@
 # 1. Foundations of Scalar Motion
 
+> **Layer note:** This document introduces the **Σ-Order / Dual-Frame projection architecture** of the broader research program. It should be read as a **reduced projection-layer entry point**, not as the deepest ontological starting point of the program. Readers seeking the motion-first origin and the current carrier-level center of the work should begin with: [`00_program_orientation/reciprocal_system_primer.md`](./00_program_orientation/reciprocal_system_primer.md)  
+
 ## 1.1 The Primacy of Motion
 In the standard paradigm of modern physics, motion is treated as a secondary property—a derivative of space and time (v = ds/dt). This view presupposes two “containers”: an absolute or relative **Space** and a linear **Time**.
 
